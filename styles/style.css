@@ -1,0 +1,26 @@
+/* Coolors Exported Palette - coolors.co/f0f2ef-bcd979-313638-62bbc1-de3c4b */
+/* HSL */
+/* RGB */
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap");
+body {
+  background-color: #313638;
+  color: #62bbc1;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  padding-top: 100px;
+}
+
+.social-icons {
+  display: inline-block;
+}
+
+.social-icons img {
+  margin-right: 15px;
+  opacity: .5;
+}
+
+.social-icons img:hover {
+  opacity: 1;
+  -webkit-transition: opacity .2s;
+  transition: opacity .2s;
+}
