@@ -1,7 +1,5 @@
 @import "variables.scss";
 
-@import url("https://fonts.googleapis.com/css?family=Lexend+Deca|Lexend+Exa|Lexend+Giga|Lexend+Mega|Lexend+Peta|Lexend+Tera|Lexend+Zetta&display=swap");
-
 /*
 font-family: 'Lexend Deca', sans-serif;
 font-family: 'Lexend Exa', sans-serif;
@@ -12,11 +10,16 @@ font-family: 'Lexend Tera', sans-serif;
 font-family: 'Lexend Peta', sans-serif;
 */
 
+@font-face {
+  font-family: "Lexend";
+  src: url("../fonts/Lexend[LXND].ttf");
+}
+
 body {
   background-color: $cb-black;
   color: $cb-blue;
   text-align: center;
-  font-family: "Lexend Deca", sans-serif;
+  font-family: "Lexend", sans-serif;
   padding-top: 100px;
 }
 
