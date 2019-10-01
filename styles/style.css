@@ -11,15 +11,15 @@ font-family: 'Lexend Tera', sans-serif;
 font-family: 'Lexend Peta', sans-serif;
 */
 @font-face {
-  font-family: "Lexend";
-  src: url("../fonts/vf/Lexend[LXND].ttf") format("truetype");
+  font-family: "Fira";
+  src: url("FiraCode-VF.ttf") format("truetype");
 }
 
 body {
   background-color: #313638;
   color: #62bbc1;
   text-align: center;
-  font-family: "Lexend", sans-serif;
+  font-family: "Fira", sans-serif;
   padding-top: 100px;
   font-optical-sizing: auto;
 }
