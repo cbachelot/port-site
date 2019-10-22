@@ -10,17 +10,21 @@ font-family: 'Lexend Tera', sans-serif;
 font-family: 'Lexend Peta', sans-serif;
 */
 
-@font-face {
-  font-family: "Lexend";
-  src: url("../fonts/vf/Lexend[LXND].ttf") format("truetype");
+
+html{
+  padding: 0px;
+  margin: 0px;
 }
 
 body {
   background-color: $cb-black;
-  color: $cb-blue;
-  text-align: center;
-  font-family: "Lexend", sans-serif;
-  font-optical-sizing: auto;
+  color: $cb-altblue;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+h1{
+  font-size: 32px;
+  font-weight: 400;
 }
 
 #site-header {
