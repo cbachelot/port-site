@@ -9,14 +9,12 @@
         The personal portfolio of Clark Bachelot.
       </h2>
       <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green">Documentation</a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey">GitHub</a>
+        <a href="https://www.linkedin.com/in/clarkbachelot/"
+        ><img alt="linkedin" src="images/linkedin.svg"
+      /></a>
+      <a href="https://twitter.com/clarkbachelot"
+        ><img alt="twitter" src="images/twitter.svg"
+      /></a>
       </div>
     </div>
   </section>
