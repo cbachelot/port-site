@@ -3,19 +3,12 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        clark-bachelot-portfolio
+        Clark Bachelot
       </h1>
       <h2 class="subtitle">
         The personal portfolio of Clark Bachelot.
       </h2>
-      <div class="links">
-        <a href="https://www.linkedin.com/in/clarkbachelot/"
-        ><img alt="linkedin" src="images/linkedin.svg"
-      /></a>
-      <a href="https://twitter.com/clarkbachelot"
-        ><img alt="twitter" src="images/twitter.svg"
-      /></a>
-      </div>
+     
     </div>
   </section>
 </template>
